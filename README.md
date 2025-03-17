@@ -1,4 +1,4 @@
-📷 Photography Layout Page
+📷 **Photography Layout Page**
 
 A simple static CSS photography layout page designed as a beginner-friendly project for learning HTML and CSS.
 
