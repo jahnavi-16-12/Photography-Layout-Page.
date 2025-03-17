@@ -52,14 +52,22 @@ bash
 📂 Folder Structure
 
 Photography-Layout-Page
+
 │
+
 ├── index.html
+
 ├── miniprojectcss.css
+
 ├── photo.jpg
+
 └── README.md
 
+
 🤝 Contributing
+
 This project is for learning purposes, but feel free to suggest improvements or additional features.
 
 📩 Contact
+
 If you have any questions, feel free to connect with me on Likedin(www.linkedin.com/in/jahnavigoud16)
